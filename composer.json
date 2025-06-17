@@ -42,7 +42,7 @@
     "extra": {
       "laravel": {
         "providers": [
-          "JouwNaam\\Larasearch\\LarasearchServiceProvider"
+          "jochemict\\Larasearch\\LarasearchServiceProvider"
         ]
       }
     }
