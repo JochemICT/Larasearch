@@ -3,6 +3,27 @@
     "description": "A simple and efficient Laravel package that adds flexible, reusable search functionality to your Eloquent models.",
     "type": "library",
     "license": "MIT",
+    "keywords": [
+      "laravel",
+      "laravel-package",
+      "laravel-search",
+      "eloquent-search",
+      "searchable",
+      "laravel-eloquent",
+      "laravel-query",
+      "laravel-scope",
+      "laravel-filter",
+      "laravel-utility",
+      "php-package",
+      "laravel-tool",
+      "laravel-model",
+      "laravel-eloquent-scope",
+      "larasearch",
+      "eloquent-filter",
+      "search-trait",
+      "laravel-development",
+      "laravel-helpers"
+    ],
     "autoload": {
         "psr-4": {
             "Jochemict\\Larasearch\\": "src/"
@@ -15,8 +36,8 @@
         }
     ],
     "require": {
-      "php": "^7.4|^8.0",
-      "illuminate/database": "^8.0|^9.0|^10.0"
+      "php": "^8.3",
+      "illuminate/database": "^12.0"
     },
     "extra": {
       "laravel": {
